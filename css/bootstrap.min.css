@@ -8649,7 +8649,8 @@ fieldset:disabled .btn {
 }
 
 .me-3 {
-    margin-right: 1rem !important
+    margin-right: 1rem !important;
+    margin-left: 1.6rem !important;
 }
 
 .me-4 {
